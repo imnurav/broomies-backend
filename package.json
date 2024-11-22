@@ -1,6 +1,5 @@
 {
   "name": "Broomies",
-  "packageManager": "yarn@4.5.1",
   "scripts": {
     "dev": "nodemon --exec ts-node  src/index.ts",
     "build": "tsc",
